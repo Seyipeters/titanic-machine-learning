@@ -66,6 +66,22 @@ The interactive dashboard provides visual insights into the Titanic dataset:
 
 4. **Interact with plots**: Hover over data points, zoom, and filter to explore patterns
 
+## Visualizations
+
+View the interactive charts generated from the dashboard analysis:
+
+- **[Survival by Gender](01_survival_by_gender.html)** - Interactive bar chart showing survival rates by gender
+- **[Survival by Passenger Class](02_survival_by_class.html)** - Class-wise survival analysis
+- **[Age Distribution](03_age_distribution.html)** - Age histograms with survival overlay
+- **[Fare Distribution](04_fare_distribution.html)** - Fare analysis by class and survival status
+- **[Gender-Class Heatmap](05_gender_class_heatmap.html)** - Survival correlation between gender and class
+- **[Port of Embarkation](06_port_analysis.html)** - Survival rates by embarkation port
+- **[Age vs Fare Scatter](07_age_vs_fare.html)** - Scatter plot of age and fare with survival indicators
+- **[Family Size Impact](08_family_size_impact.html)** - How family size affected survival chances
+- **[Survival Overview](09_survival_overview.html)** - Overall survival statistics and doughnut chart
+
+*Note: Click the links above to view interactive Plotly visualizations in your browser.*
+
 ## Key Findings
 
 ### Survival Statistics
